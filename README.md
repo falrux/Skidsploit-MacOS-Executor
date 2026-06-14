@@ -1,9 +1,9 @@
-macos executor made entirely with claude and opiumwares privately leaked source code
+macos executor made entirely with claude and opiumwares privately leaked source code  
 
-i did not contribute to this i only bought the skid from @JadXV for 167 dollars in USDC
+i did not contribute to this i only bought the skid from @JadXV for 167 dollars in USDC  
 
-14 or 16 sunc
-not updated to latest (on version-08d2b9589bf14135)
-https://sunc.rubis.app/?scrap=Qnzm55p4eLh1ox99&key=gEW1sdhRdEXEn27HXxLhswYODBKC3KqQ
+12 sunc  
+on version-08d2b9589bf14135  
+https://sunc.rubis.app/?scrap=Qnzm55p4eLh1ox99&key=gEW1sdhRdEXEn27HXxLhswYODBKC3KqQ  
 
-also made by another user on discord @alexkkork_00.alt who had access to opiumwares leaked source code
+also made by another user on discord **@alexkkork_00.alt** who had access to opiumwares leaked source code  
