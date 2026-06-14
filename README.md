@@ -1,6 +1,6 @@
 macos executor made entirely with claude and opiumwares privately leaked source code  
 
-i did not contribute to this i only bought the source code from @JadXV for 167 dollars in USDC  
+i did not contribute to this i only bought the source code from @JadXV for 167 USDC  
 
 12 sunc  
 on version-08d2b9589bf14135  
